@@ -1,0 +1,1 @@
+ranked minecraft standard
