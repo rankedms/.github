@@ -8,9 +8,5 @@
     <strong>making competitive minecraft minigames fun again.</strong></br>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/JkS2bc8eaD">discord</a>
-</p>
-
 ***
-###### Copyright © 2023 Ranked Minecraft Standard
+###### Copyright © 2026 Ranked Minecraft Standard
